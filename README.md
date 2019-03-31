@@ -142,6 +142,8 @@ show()
 ![emmmm](https://github.com/Heured/PCV_Assignment_04/blob/master/imgToShow/CaoPing_pipei.png)
 ![emmmm](https://github.com/Heured/PCV_Assignment_04/blob/master/imgToShow/CaoPing.png)
   
+本次结果看起来相对较差，也许是连接处噪点较多导致
+  
 (3)
   
 ![emmmm](https://github.com/Heured/PCV_Assignment_04/blob/master/imgToShow/Hu_pipei.png)
@@ -261,6 +263,7 @@ show()
 ```
   
 遇到问题：当原图排序为从左到右时，所得到的拼接图非常杂乱
+  
 解决办法：将原图排序由从左到右改为从右到左
   
 结果：
