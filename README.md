@@ -264,10 +264,10 @@ show()
 解决办法：将原图排序由从左到右改为从右到左
   
 结果：
-  !(emmmm)[https://github.com/Heured/PCV_Assignment_04/blob/master/imgToShow/CaoChang_pipei1.png]
-  !(emmmm)[https://github.com/Heured/PCV_Assignment_04/blob/master/imgToShow/CaoChang_pipei2.png]
-  !(emmmm)[https://github.com/Heured/PCV_Assignment_04/blob/master/imgToShow/CaoChang_pipei3.png]
-  !(emmmm)[https://github.com/Heured/PCV_Assignment_04/blob/master/imgToShow/CaoChang.png]
+  ![emmmm](https://github.com/Heured/PCV_Assignment_04/blob/master/imgToShow/CaoChang_pipei1.png)
+  ![emmmm](https://github.com/Heured/PCV_Assignment_04/blob/master/imgToShow/CaoChang_pipei2.png)
+  ![emmmm](https://github.com/Heured/PCV_Assignment_04/blob/master/imgToShow/CaoChang_pipei3.png)
+  ![emmmm](https://github.com/Heured/PCV_Assignment_04/blob/master/imgToShow/CaoChang.png)
 
   
   
